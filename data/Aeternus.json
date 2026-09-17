@@ -1,75 +1,31 @@
 {
-    "id": 110000000,
+    "id": 102647436,
     "name": "Aeternus",
-    "author": "Riot & More",
-    "creators": ["Riot", "Ryamu", "More"],
+    "author": "Riot",
+    "creators": ["Riot", "ryamu", "pluff", "icedcave", "Deadlox"],
     "verifier": "Open Verification",
-    "verification": "https://www.youtube.com/watch?v=qt9UEprkezg",
+    "verification": "https://www.youtube.com/watch?v=xn2YY8Leukw",
     "percentToQualify": 23,
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "dewbbs",
-            "link": "https://www.youtube.com/watch?v=qt9UEprkezg",
-            "percent": 23,
-            "range": "23%",
-            "hz": 360
-        },
-        {
-            "user": "dewbbs",
-            "link": "https://www.youtube.com/watch?v=qt9UEprkezg",
-            "percent": 22,
-            "range": "22%",
-            "hz": 360
-        },
-        {
-            "user": "dewbbs",
-            "link": "https://www.youtube.com/watch?v=hMh2waoolfQ",
-            "percent": 20,
-            "range": "20%",
-            "hz": 360
-        },
-        {
-            "user": "wShock",
-            "link": "https://www.youtube.com/results?search_query=wShock+Aeternus+11-23",
-            "percent": 23,
-            "range": "11-23%",
-            "hz": 360
-        },
-        {
-            "user": "wShock",
-            "link": "https://www.youtube.com/results?search_query=wShock+Aeternus+16-27",
-            "percent": 27,
-            "range": "16-27%",
-            "hz": 360
-        },
-        {
-            "user": "aden",
-            "link": "https://www.youtube.com/results?search_query=aden+Aeternus+69-86",
-            "percent": 86,
-            "range": "69-86%",
-            "hz": 360
-        },
-        {
-            "user": "FlinGuSPluNkuS",
-            "link": "https://www.youtube.com/results?search_query=FlinGuSPluNkuS+Aeternus+47-59",
-            "percent": 59,
-            "range": "47-59%",
-            "hz": 360
-        },
-        {
-            "user": "Cclixgd",
-            "link": "https://www.youtube.com/results?search_query=Cclixgd+Aeternus+42-52",
-            "percent": 52,
-            "range": "42-52%",
-            "hz": 360
-        },
-        {
-            "user": "SilkizinhoYT",
-            "link": "https://www.youtube.com/results?search_query=SilkizinhoYT+Aeternus+27-36",
-            "percent": 36,
-            "range": "27-36%",
-            "hz": 360
-        }
+        { "user": "dewbbs", "link": "https://www.youtube.com/watch?v=qt9UEprkezg", "percent": 23, "range": "23%", "hz": 360 },
+        { "user": "dewbbs", "link": "https://www.youtube.com/results?search_query=dewbbs+Aeternus+24-39", "percent": 39, "range": "24-39%", "hz": 360 },
+        { "user": "wShock", "link": "https://www.youtube.com/results?search_query=wShock+Aeternus+16-27", "percent": 27, "range": "16-27%", "hz": 360 },
+        { "user": "wShock", "link": "https://www.youtube.com/results?search_query=wShock+Aeternus+24-34", "percent": 34, "range": "24-34%", "hz": 360 },
+        { "user": "wShock", "link": "https://youtu.be/KOeb1UjVByE", "percent": 61, "range": "47-61%", "hz": 360 },
+        { "user": "wShock", "link": "https://www.youtube.com/results?search_query=wShock+Aeternus+60-79", "percent": 79, "range": "60-79%", "hz": 360 },
+        { "user": "wShock", "link": "https://www.youtube.com/results?search_query=wShock+Aeternus+76-100", "percent": 100, "range": "76-100%", "hz": 360 },
+        { "user": "aden", "link": "https://www.youtube.com/results?search_query=aden+Aeternus+16-28", "percent": 28, "range": "16-28%", "hz": 360 },
+        { "user": "aden", "link": "https://www.youtube.com/results?search_query=aden+Aeternus+26-40", "percent": 40, "range": "26-40%", "hz": 360 },
+        { "user": "aden", "link": "https://www.youtube.com/results?search_query=aden+Aeternus+42-59", "percent": 59, "range": "42-59%", "hz": 360 },
+        { "user": "aden", "link": "https://www.youtube.com/results?search_query=aden+Aeternus+56-69", "percent": 69, "range": "56-69%", "hz": 360 },
+        { "user": "aden", "link": "https://www.youtube.com/results?search_query=aden+Aeternus+67-88", "percent": 88, "range": "67-88%", "hz": 360 },
+        { "user": "aden", "link": "https://www.youtube.com/results?search_query=aden+Aeternus+77-100", "percent": 100, "range": "77-100%", "hz": 360 },
+        { "user": "Chill Guy", "link": "https://youtu.be/KJKza9jnLs", "percent": 100, "range": "72-100%", "hz": 360 },
+        { "user": "FlinGuSPluNkuS", "link": "https://www.youtube.com/results?search_query=FlinGuSPluNkuS+Aeternus+52-61", "percent": 61, "range": "52-61%", "hz": 360 },
+        { "user": "FlinGuSPluNkuS", "link": "https://www.youtube.com/results?search_query=FlinGuSPluNkuS+Aeternus+47-59", "percent": 59, "range": "47-59%", "hz": 360 },
+        { "user": "SilkizinhoYT", "link": "https://www.youtube.com/results?search_query=SilkizinhoYT+Aeternus+27-36", "percent": 36, "range": "27-36%", "hz": 360 },
+        { "user": "SilkizinhoYT", "link": "https://www.youtube.com/results?search_query=SilkizinhoYT+Aeternus+30-40", "percent": 40, "range": "30-40%", "hz": 360 },
+        { "user": "SilkizinhoYT", "link": "https://www.youtube.com/results?search_query=SilkizinhoYT+Aeternus+24-34", "percent": 34, "range": "24-34%", "hz": 360 }
     ]
 }
