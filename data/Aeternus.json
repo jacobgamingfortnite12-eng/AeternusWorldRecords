@@ -1,0 +1,75 @@
+{
+    "id": 110000000,
+    "name": "Aeternus",
+    "author": "Riot & More",
+    "creators": ["Riot", "Ryamu", "More"],
+    "verifier": "Open Verification",
+    "verification": "https://www.youtube.com/watch?v=qt9UEprkezg",
+    "percentToQualify": 23,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "dewbbs",
+            "link": "https://www.youtube.com/watch?v=qt9UEprkezg",
+            "percent": 23,
+            "range": "23%",
+            "hz": 360
+        },
+        {
+            "user": "dewbbs",
+            "link": "https://www.youtube.com/watch?v=qt9UEprkezg",
+            "percent": 22,
+            "range": "22%",
+            "hz": 360
+        },
+        {
+            "user": "dewbbs",
+            "link": "https://www.youtube.com/watch?v=hMh2waoolfQ",
+            "percent": 20,
+            "range": "20%",
+            "hz": 360
+        },
+        {
+            "user": "wShock",
+            "link": "https://www.youtube.com/results?search_query=wShock+Aeternus+11-23",
+            "percent": 23,
+            "range": "11-23%",
+            "hz": 360
+        },
+        {
+            "user": "wShock",
+            "link": "https://www.youtube.com/results?search_query=wShock+Aeternus+16-27",
+            "percent": 27,
+            "range": "16-27%",
+            "hz": 360
+        },
+        {
+            "user": "aden",
+            "link": "https://www.youtube.com/results?search_query=aden+Aeternus+69-86",
+            "percent": 86,
+            "range": "69-86%",
+            "hz": 360
+        },
+        {
+            "user": "FlinGuSPluNkuS",
+            "link": "https://www.youtube.com/results?search_query=FlinGuSPluNkuS+Aeternus+47-59",
+            "percent": 59,
+            "range": "47-59%",
+            "hz": 360
+        },
+        {
+            "user": "Cclixgd",
+            "link": "https://www.youtube.com/results?search_query=Cclixgd+Aeternus+42-52",
+            "percent": 52,
+            "range": "42-52%",
+            "hz": 360
+        },
+        {
+            "user": "SilkizinhoYT",
+            "link": "https://www.youtube.com/results?search_query=SilkizinhoYT+Aeternus+27-36",
+            "percent": 36,
+            "range": "27-36%",
+            "hz": 360
+        }
+    ]
+}
